@@ -1,2 +1,2 @@
 # my-resolution
-repositori untuk planning saya kedepannya
+repository untuk planning saya kedepannya
